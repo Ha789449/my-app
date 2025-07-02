@@ -34,6 +34,7 @@ export default function Navbar() {
             className="text-sm font-medium bg-black text-white px-4 py-2 rounded hover:bg-gray-800 transition"
           >
             Download CV
+            
           </a>
           <button
             onClick={() => setDarkMode(!darkMode)}
