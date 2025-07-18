@@ -11,14 +11,14 @@ export default function Hero() {
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900">Hi, I’m Abdul Hakeem 👋</h1>
           <p className="mt-4 text-lg text-gray-700 max-w-xl">
             I’m a full stack developer <span className="font-semibold">React.js & Node.js</span> with a focus on creating (and occasionally designing) exceptional digital experiences that are fast, accessible, visually appealing, and responsive.
-            Even though I have been creating web applications for over 7 years, I still love it as if it was something new.
+            Even though I have been creating web applications for over 2 years, I still love it as if it was something new.
           </p>
 
           {/* Location + Availability */}
           <div className="mt-6 flex items-center gap-4 text-sm text-gray-600">
             <div className="flex items-center gap-2">
               <span className="text-green-600">●</span>
-              <span>Ahmedabad, India</span>
+              <span>Islamabad, Pakistan</span>
             </div>
             <span className="text-green-600 font-medium">✅ Available for new projects</span>
           </div>
