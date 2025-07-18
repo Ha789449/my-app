@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-10">
         {/* Left Side Content */}
         <div>
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900">Hi, I’m Sagar 👋</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-gray-900">Hi, I’m Abdul Hakeem 👋</h1>
           <p className="mt-4 text-lg text-gray-700 max-w-xl">
             I’m a full stack developer <span className="font-semibold">React.js & Node.js</span> with a focus on creating (and occasionally designing) exceptional digital experiences that are fast, accessible, visually appealing, and responsive.
             Even though I have been creating web applications for over 7 years, I still love it as if it was something new.
